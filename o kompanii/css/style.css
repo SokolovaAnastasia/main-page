@@ -900,7 +900,9 @@ ul {
   bottom: 0;
   left: 206px;
 }
-
+.onevrossii {
+  overflow: hidden;
+}
 .onevrossii__svg {
   width: 230px;
   height: 230px;
